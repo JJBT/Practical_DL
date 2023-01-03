@@ -1,39 +1,19 @@
-# Deep learning course
+# Practical DL HSE
 
-This repo supplements Deep Learning course taught at YSDA and HSE @fall'22. _For previous iteration visit the [fall21 branch](https://github.com/yandexdataschool/Practical_DL/tree/fall21)._
+This repo contains completed homework notebooks of Deep Learning [course](https://github.com/yandexdataschool/Practical_DL/tree/fall21) taught at YSDA and HSE 
 
-Lecture and practice materials for each week are in ./week* folders. You can complete all asignments locally or in google colab (see readme files in week*)
+Lecture and practice materials for each week are in ./week* folders. 
 
-# General info
-* Telegram [chat room](https://t.me/+IsxSfgFZr1E0MDMy) (russian).
-* Deadlines & grading rules can be found at [this page](https://github.com/yandexdataschool/Practical_DL/wiki/Homeworks-and-grading-(HSE)).
-* Any technical issues, ideas, bugs in course materials, contribution ideas - add an [issue](https://github.com/yandexdataschool/practical_dl/issues) or ask around in the chat.
-
-
-# Syllabus
-- __week01__ Intro to deep learning
-  - [ ] Lecture: Deep learning -- introduction, backpropagation algorithm, adaptive optimization methods
-  - [ ] Seminar: Neural networks in numpy
-  - [ ] Homework 1 is out!
-  - [ ] Please begin worrying about [installing pytorch](https://github.com/yandexdataschool/Practical_DL/issues/6). You will need it next week!
-
-- __week02__ Catch-all lecture about deep learning tricks
-  - [ ] Lecture: Deep learning as a language, dropout, batch/layer normalization, other tricks, deep learning frameworks
-  - [ ] Homework 2 is out!
-  - [ ] Seminar: PyTorch basics
-
-- __week03__ Convolutional neural networks
-  - [ ] Lecture: Computer vision tasks, Convolution and Pooling layers, ConvNet architectures, Data Augmentation
-  - [ ] Seminar: Training your first ConvNet
-
-# Contributors & course staff
-Course materials and teaching performed by
-- [Victor Lempitsky](http://sites.skoltech.ru/compvision/members/vilem/) - main track lecture videos (1-11)
-- [Victor Yurchenko](https://github.com/simflin) - intro notebooks, admin stuff
-- [Vadim Lebedev](https://github.com/vadim-v-lebedev) - notebooks, admin stuff
-- [Dmitry Ulyanov](https://github.com/DmitryUlyanov) - notebooks on generative models & autoencoders
-- [Fedor Ratnikov](https://github.com/justheuristic/) - pytorch & nlp notebooks, one bonus lecture
-- [Oleg Vasilev](https://github.com/Omrigan) - notebooks, technical issue resolution
-- [Arseniy Ashukha](https://github.com/ars-ashuha) - image captioning materials
-- [Mikhail Khalman](https://github.com/mihaha) - variational autoencoder materials
+# Assignments
+* [week01_backprop](https://github.com/JJBT/Practical_DL/tree/master) :white_check_mark:
+- [week02_autodiff](https://github.com/JJBT/Practical_DL/tree/master/week02_autodiff) :white_check_mark:
+- [week03_convnets](https://github.com/JJBT/Practical_DL/tree/master/week03_convnets) :white_check_mark:
+- [week04_finetuning](https://github.com/JJBT/Practical_DL/tree/master/week04_finetuning) :white_check_mark:
+- [week05_nlp](https://github.com/JJBT/Practical_DL/tree/master/week05_nlp) :white_check_mark:
+- [week06_attention](https://github.com/JJBT/Practical_DL/tree/master/week06_attention) :white_check_mark:
+- [week07_interpretability](https://github.com/JJBT/Practical_DL/tree/master/week07_interpretability) :white_check_mark:
+- [week08_llm](https://github.com/JJBT/Practical_DL/tree/master/week08_llm) :x:
+- [week09_generative](https://github.com/JJBT/Practical_DL/tree/master/week09_generative) :white_check_mark:
+- [week10_speech](https://github.com/JJBT/Practical_DL/tree/master/week10_speech) :white_check_mark:
+- [week11_inference](https://huggingface.co/spaces/lqrhy3/practical-dl-hw-serve-model) :white_check_mark:
 
