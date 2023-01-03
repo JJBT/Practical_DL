@@ -15,5 +15,7 @@ Lecture and practice materials for each week are in ./week* folders.
 * [week08_llm](https://github.com/JJBT/Practical_DL/tree/master/week08_llm) :x:
 * [week09_generative](https://github.com/JJBT/Practical_DL/tree/master/week09_generative) :white_check_mark:
 * [week10_speech](https://github.com/JJBT/Practical_DL/tree/master/week10_speech) :white_check_mark:
-* [week11_inference](https://github.com/JJBT/Practical_DL/tree/master/week11_inference) :white_check_mark:  [HF Space torch](https://https://huggingface.co/spaces/vladmir077/inference_hw_torch)  [HF Space ONNX](https://huggingface.co/spaces/vladmir077/inference_hw_onnx)
+* [week11_inference](https://github.com/JJBT/Practical_DL/tree/master/week11_inference) :white_check_mark:  
+  * [HF Space torch](https://https://huggingface.co/spaces/vladmir077/inference_hw_torch)  
+  * [HF Space ONNX](https://huggingface.co/spaces/vladmir077/inference_hw_onnx)
 
